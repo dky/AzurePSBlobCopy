@@ -2,11 +2,11 @@
 $srcVhd = "src.vhd"
 $srcUri = "https://.blob.core.windows.net/vhds/$srcVhd"
 
-### Source Storage Account (West US) ###
+### Source Storage Account ###
 $srcStorageAccount = ""
 $srcStorageKey = ""
 
-### Target Storage Account (West US) ###
+### Target Storage Account ###
 $destStorageAccount = ""
 $destStorageKey = ""
 
